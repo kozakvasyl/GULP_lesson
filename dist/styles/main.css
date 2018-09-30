@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+  margin: 0;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
+
+h1 {
+  color: black; }
+
+.logo {
+  width: 280px; }
+
+.logotype {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+
+p {
+  text-align: center; }
